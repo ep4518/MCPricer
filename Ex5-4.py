@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+# Created on Tue Jan 28 2025
+# Author: epeterson
+
 from BSModel01 import Gauss
 from numpy import cos
 
